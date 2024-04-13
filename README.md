@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Максим Жердев](https://up.htmlacademy.ru/adaptive/31/user/244276).
-* Наставник: `Неизвестно`.
+- Студент: [Максим Жердев](https://up.htmlacademy.ru/adaptive/31/user/244276).
+- Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
 
 ---
 
